@@ -132,7 +132,7 @@ namespace IaCInventoryManagementSystem
         {
             return new Asset(this, "Asset", new AssetProps
             {
-                Path = "./src/configure.sh"
+                Path = "./src/IaCInventoryManagementSystem/configure.sh"
             });
 
         }

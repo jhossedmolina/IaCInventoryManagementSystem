@@ -30,7 +30,7 @@ namespace IaCInventoryManagementSystem
                 // want to deploy the stack to.
                 Env = new Amazon.CDK.Environment
                 {
-                    Account = "123456789012",
+                    Account = "123456789",
                     Region = "us-east-1",
                 }
 
@@ -56,7 +56,7 @@ namespace IaCInventoryManagementSystem
                 // want to deploy the stack to.
                 Env = new Amazon.CDK.Environment
                 {
-                    Account = "123456789012",
+                    Account = "123456789",
                     Region = "us-east-1",
                 }
 
